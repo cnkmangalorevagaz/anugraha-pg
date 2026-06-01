@@ -762,25 +762,21 @@ export default function HouseRules() {
     <div className="flex-1">
 
       <h2 className="text-2xl font-semibold text-[#111827] mb-5">
-        15. Safety & Security
+        16. CCTV Surveillance
       </h2>
 
       <div className="space-y-3 text-black text-[15px] leading-7">
 
         <p>
-          15.1 Residents shall cooperate with all safety
-          and security measures implemented by the management.
+          16.1 Common areas of the PG may be monitored through CCTV surveillance for safety and security purposes.
         </p>
 
         <p>
-          15.2 Any suspicious activity, security concern or
-          emergency must be immediately reported to management.
+          16.2 CCTV recordings shall remain the property of the management.
         </p>
 
         <p>
-          15.3 Tampering with locks, security systems,
-          CCTV equipment, internet equipment, electrical
-          systems or safety devices is strictly prohibited.
+          16.3 Access to CCTV footage shall be provided only where legally required or at the discretion of management.
         </p>
 
       </div>
