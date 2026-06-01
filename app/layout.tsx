@@ -13,6 +13,7 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
+  metadataBase: new URL("https://mangalorehostel.com"),
   title: "Anugraha PG for Girls | Premium Stay in Mangalore",
   description:
     "✨ Safe & Comfortable Girls PG in Mangalore. Spacious Rooms • Homely Food • Wi-Fi • Housekeeping • 24/7 Security. Your Home Away From Home.",
@@ -23,7 +24,7 @@ export const metadata: Metadata = {
       "Safety and Comfort, Crafted for Her",
     images: [
       {
-        url: "https://mangalorehostel.com/ogimage.png",
+        url: "https://mangalorehostel.com/ogimage-v2.png",
         width: 1200,
         height: 630,
       },
