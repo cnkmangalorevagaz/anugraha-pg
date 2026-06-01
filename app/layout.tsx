@@ -23,7 +23,7 @@ export const metadata: Metadata = {
       "Safety and Comfort, Crafted for Her",
     images: [
       {
-        url: "/images/ogimage.png",
+        url: "/ogimage.png",
         width: 1200,
         height: 630,
       },
